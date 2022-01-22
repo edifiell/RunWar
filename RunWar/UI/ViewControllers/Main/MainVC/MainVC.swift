@@ -3,7 +3,7 @@
 //  RunWar
 //
 //  Created by @IBaction on 01.11.2021.
-//     
+// 
 
 import SwiftUI
 
